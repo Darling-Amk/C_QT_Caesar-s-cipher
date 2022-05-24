@@ -1,2 +1,2 @@
-# chizaaaa_project
+# Caesar's cipher
 Проект по основам программирования( II Семестр ).
